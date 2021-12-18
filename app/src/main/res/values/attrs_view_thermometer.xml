@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="viewThermometer">
+        <attr name="exampleStringx" format="string" />
+        <attr name="exampleDimensionx" format="dimension" />
+        <attr name="exampleColorx" format="color" />
+        <attr name="exampleDrawablex" format="color|reference" />
+    </declare-styleable>
+</resources>

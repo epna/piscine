@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="piscine">
+        <attr name="ph" format="float" />
+        <attr name="cl" format="float" />
+        <attr name="te" format="float" />
+        <attr name="tx" format="float" />
+    </declare-styleable>
+
+</resources>

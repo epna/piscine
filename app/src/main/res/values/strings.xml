@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">piscine</string>
+    <string name="title_home">Home</string>
+    <string name="title_filtration">Filtration</string>
+    <string name="title_historique">historique</string>
+    <string name="IP_piscine">http://sgdm34.ddns.net:114</string>
+    <string-array name="ticker">
+        <item>1</item>
+        <item></item>
+        <item>3</item>
+        <item></item>
+        <item>5</item>
+        <item></item>
+        <item>7</item>
+        <item></item>
+        <item>9</item>
+        <item></item>
+        <item>11</item>
+        <item></item>
+        <item>13</item>
+        <item></item>
+        <item>15</item>
+        <item></item>
+        <item>17</item>
+        <item></item>
+        <item>19</item>
+        <item></item>
+        <item>21</item>
+        <item></item>
+        <item>23</item>
+        <item></item>
+    </string-array>
+    <string name="start">Démarrer filtration</string>
+    <string name="stop">Arrêter filtration</string>
+</resources>
